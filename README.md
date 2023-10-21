@@ -1,4 +1,4 @@
-Data Analyst with Machine Learning Skills
+Hello! I am Sumali a Senior Data Analyst with Machine Learning Skills
 Welcome to my GitHub profile! 👋
 
 I'm a data analyst with a strong background in machine learning, Python, and SQL. My passion lies in uncovering actionable insights from data and using machine learning techniques to drive data-driven decision-making.
