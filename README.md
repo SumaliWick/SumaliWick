@@ -13,8 +13,11 @@ Here, you'll find a collection of my data analysis and machine learning projects
 
 Projects
 Project 1: Enhancing Credit Card Approval Rate with Machine Learning https://github.com/SumaliWick/dsc-phase-3-project-capstone/tree/main
+
 Project 2: Movie Industry Analysis https://github.com/SumaliWick/Dsc-phase-1-project-by-SW
+
 Project 3: Real Estate Predictions https://github.com/SumaliWick/dsc-phase-2-project-main
+
 Feel free to explore my repositories to see how I've leveraged data and machine learning to gain valuable insights.
 
 Contact Me
